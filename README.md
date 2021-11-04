@@ -1,16 +1,15 @@
-### Hi there 👋
+# Anirudh Buvanesh (He/Him/His)
 
-<!--
-**anirudhb11/anirudhb11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a developer working at Salesforce in the Consumer Goods Team.
 
-Here are some ideas to get you started:
+I graduated in 2021 from BITS Pilani with a Masters degree in Mathematics and Bachelors degree in Computer Science. During that time I interned at CEERI, Amazon, Salesforce and TIFR.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![anirudhb11's github stats](https://github-readme-stats.vercel.app/api?username=anirudhb11&show_icons=true&theme=radical&count_private=true)
+
+## Let's talk!
+
+[<img align="left" alt="Anirudh | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/gmail.svg" />][gmail]
+[<img align="left" alt="Anirudh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[gmail]: mailto:anirudhb1102@gmail.com
+[linkedin]: https://www.linkedin.com/in/anirudh-buvanesh-93873a146/
