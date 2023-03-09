@@ -1,8 +1,9 @@
 # Anirudh Buvanesh (He/Him/His)
+I am currently working as Research Fellow at [Microsoft Research India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/)(MSRI) in the Extreme Classification group, where I am advised by [Dr. Manik Varma](http://manikvarma.org/).
 
-I am a developer working at Salesforce in the Consumer Goods Team.
+Prior to joining Microsoft Research I worked at Salesforce as a software developer in the Consumer Goods Team.
 
-I graduated in 2021 from BITS Pilani with a Masters degree in Mathematics and Bachelors degree in Computer Science. During that time I interned at CEERI, Amazon, Salesforce and TIFR.
+I graduated from [Birla Institute of Technology and Science (BITS) Pilani](https://bits-pilani.ac.in/) in 2021 with a Master's degree in Mathematics and Bachelors degree in Computer Science. During that time I interned at CEERI, Amazon, Salesforce and TIFR.
 
 ![anirudhb11's github stats](https://github-readme-stats.vercel.app/api?username=anirudhb11&show_icons=true&theme=radical&count_private=true)
 
