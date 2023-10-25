@@ -5,7 +5,6 @@ Prior to joining Microsoft Research I worked at Salesforce as a software develop
 
 I graduated from [Birla Institute of Technology and Science (BITS) Pilani](https://bits-pilani.ac.in/) in 2021 with a Master's degree in Mathematics and Bachelors degree in Computer Science. During that time I interned at CEERI, Amazon, Salesforce and TIFR.
 
-![anirudhb11's github stats](https://github-readme-stats.vercel.app/api?username=anirudhb11&show_icons=true&theme=radical&count_private=true)
 
 ## Let's talk!
 
