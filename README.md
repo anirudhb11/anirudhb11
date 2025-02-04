@@ -1,5 +1,6 @@
 # Anirudh Buvanesh (He/Him/His)
-I am currently working as Research Fellow at [Microsoft Research India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/)(MSRI) in the Extreme Classification group, where I am advised by [Dr. Manik Varma](http://manikvarma.org/).
+I am currently a Ph.D. student at Université dé Montréal and Montreal Institute for Learning Algorithms (MILA) where I am supervised by Prof. Aaron Courville and Prof. Laurent Charlin. 
+Earlier, I was a Research Fellow at [Microsoft Research India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/)(MSRI) in the Extreme Classification group, where I was advised by [Dr. Manik Varma](http://manikvarma.org/).
 
 Prior to joining Microsoft Research I worked at Salesforce as a software developer in the Consumer Goods Team.
 
